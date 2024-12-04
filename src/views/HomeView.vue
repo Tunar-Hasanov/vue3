@@ -107,7 +107,7 @@ export default {
               class=" h-full flex justify-center items-center"
             >
               <img
-                :src="`https://merc.az:5000/${item.slideImage}`"
+                :src="`https://merc.az/${item.slideImage}`"
                 class="w-full h-full object-cover"
                 alt="Slide Image"
               />
